@@ -16,7 +16,7 @@ The aim is to uncover sales trends, customer behaviors, and product performance 
   - `CustomerID` → Unique customer
   - `Gender` → Male or Female
   - `ProductCategory` → Product details (Beauty, Clothing or Eloctronics) 
-  - `Quantity`, `UnitPrice` → Transaction values  
+  - `Quantity`, `PricePerUnit` → Transaction values  
   - `TotalAmount` → Total sales amount  
 
 ---
