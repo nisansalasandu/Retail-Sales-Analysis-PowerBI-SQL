@@ -66,5 +66,5 @@ Built an interactive dashboard with:
 1. Clone this repository:
    ```bash
     git clone https://github.com/nisansalasandu/Retail-Sales-Analysis-PowerBI-SQL.git
-](https://github.com/nisansalasandu/Retail-Sales-Analysis-PowerBI-SQL.git)
+
 
