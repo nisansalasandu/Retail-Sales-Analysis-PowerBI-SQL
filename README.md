@@ -61,9 +61,15 @@ Built an interactive dashboard with:
 ---
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1de73269-ccb2-45c6-8248-65cb3fdf926c" />
 
+https://github.com/user-attachments/assets/107858b8-8192-4972-9f51-1dc3d9f8e6a1
+
 
 ## 🚀 How to Use
 1. Clone this repository:
+
+
+
+
    ```bash
     https://github.com/nisansalasandu/Retail-Sales-Analysis-PowerBI-SQL.git
 
